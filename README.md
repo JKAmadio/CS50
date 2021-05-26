@@ -8,7 +8,7 @@ e resumi os objetivos de cada um dos exercícios.
 - [x] - Week 0 - Scratch
 - [x] - Week 1 - C
 - [x] - Week 2 - Arrays
-- [ ] - Week 3 - Algorithms
+- [x] - Week 3 - Algorithms
 - [ ] - Week 4 - Memory
 - [ ] - Week 5 - Data Strcuture
 - [ ] - Week 6 - Python
